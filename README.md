@@ -62,3 +62,11 @@ You can find and download the following files within the "osTicket-Installation-
 To register PHP, open IIS (Internet Information Systems) from within IIS (Internet Information Systems) as an administrator. Upon completion, reload IIS and then install the OSTicket installation files from the "osTicket-Installation-Files" folder. Upon unzipping the folder, copy and paste the "upload" folder to "C:/inetpub/wwwroot". Within the folder rename “upload” to “osTicket”.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/vm9EeOX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In IIS, go to the sites menu, default, and then OSTicket. Right-click the URL bar and select "Browse /80"; within IIS, double-click the PHP Managers link to enable php_imap.dll, php_intl.dll, and php_opcache.dll. Once the process has been completed, the OSTicket will be available.
+</p>
+<br />
