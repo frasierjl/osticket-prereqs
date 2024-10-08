@@ -31,26 +31,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/sCywAjf"/>
+<img src="https://i.imgur.com/1z7mofI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create an Azure Virtual Machine with the appropriate credentials and log into Remote Desktop
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/t3D87iN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
   >
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using the osticket virtual machine you can download the files needed for the installation of osTicket and then unzip them onto your desktop. As a general rule, the folder should be named "osTicket-Installation-Files". Within World Wide Web Services and Application Development Features, install and enable IIS (Internet Information Systems) with CGI.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FYi1Dbj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You can find and download the following files within the "osTicket-Installation-Files" folder: PHP Manager, Rewrite Module, and then you need to create the directory C:/PHP in order to unzip PHP 7.3.8 into it. Please continue downloading from the folder: VC_redist and MySQL 5.5.62. Once the setup is complete, create a username and password on the system. .
 </p>
 <br />
