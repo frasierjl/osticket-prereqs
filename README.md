@@ -54,3 +54,11 @@ Using the osticket virtual machine you can download the files needed for the ins
 You can find and download the following files within the "osTicket-Installation-Files" folder: PHP Manager, Rewrite Module, and then you need to create the directory C:/PHP in order to unzip PHP 7.3.8 into it. Please continue downloading from the folder: VC_redist and MySQL 5.5.62. Once the setup is complete, create a username and password on the system. .
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/XrZ14Ze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To register PHP, open IIS (Internet Information Systems) from within IIS (Internet Information Systems) as an administrator. Upon completion, reload IIS and then install the OSTicket installation files from the "osTicket-Installation-Files" folder. Upon unzipping the folder, copy and paste the "upload" folder to "C:/inetpub/wwwroot". Within the folder rename “upload” to “osTicket”.
+</p>
+<br />
